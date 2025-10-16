@@ -1,0 +1,6 @@
+scrapy
+requests
+pandas
+curl_cffi
+mysql-connector-python
+python-dotenv

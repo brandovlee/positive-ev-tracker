@@ -1,0 +1,6 @@
+.venv/
+.env
+data/
+lambda-deployments/
+**/__pycache__/
+**/*.cfg
